@@ -1,0 +1,24 @@
+{
+	"name": "project-don",
+	"version": "0.0.2",
+	"description": "Gulp file for compression/ conversion of js and less files. Includes SVG utilities also.",
+	"author": {
+		"name": "Venkatesh Anand",
+		"email": "venkatesh.anand@bookmyshow.com",
+		"company": "Bigtree Entertainment Private Ltd."
+	},
+	"private": true,
+	"dependencies": {
+		"gulp": "^3.8.x",
+		"gulp-attr-remover": "0.0.3",
+		"gulp-less": "^3.0.3",
+		"gulp-livereload": "^3.8.0",
+		"gulp-minify-css": "^1.2.0",
+		"gulp-replace": "^0.5.3",
+		"gulp-svg-sprite": "^1.0.19",
+		"gulp-watch": "^4.2.4",
+		"path": "^0.11.x",
+		"vinyl-paths": "^1.0.0",
+		"del":"^1.2.1"
+	}
+}

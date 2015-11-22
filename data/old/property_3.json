@@ -1,0 +1,191 @@
+{
+    "arrPropertyDetails": [
+        {
+            "Property_Id": "3",
+            "Property_FlatNo": "101",
+            "Property_BldgId": "1",
+            "Property_BldgName": "Blue Ridge",
+            "Property_Wing": "",
+            "Property_TowerNo": "8",
+            "Property_Street": "Hinjewadi Phase 1",
+            "Property_Area": "1300 SQ FT",
+            "Property_CityID": "Pune",
+            "Property_LandMark": "Next to Accenture",
+            "Property_Country": "India",
+            "Property_PinCode": "411057",
+            "Property_NoofBedAvailable": "3 Beds",
+            "Property_Lat": "36.2462073",
+            "Property_Long": "-122.8058784",
+            "Property_TypeID": "Apartment",
+            "Property_Synopsis": "Apartment",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBHK": "3 BHK",
+            "Property_HasLivingArea": "Y",
+            "Property_HasKitchen": "Y",
+            "Property_HasCommonBalcony": "Y",
+            "Property_HasCommonToilet": "Y",
+            "Property_Timings": "NO RESTRICTIONS",
+            "Property_GenderEntry": "No",
+            "Property_IsFamilyAllowed": "No",
+            "Property_IsDrinkingAllowed": "No",
+            "Property_IsSmokingAllowed": "No",
+            "Property_IsNonVegAllowed": "Yes",
+            "Property_IsPetAllowed": "No",
+            "Property_NearBy": "|Airport=30KMS|Domenstic=30KMS|RailwayStation=22KM|",
+            "Property_TNC":"<li>No Pets Allowed</li><li>No additional furniture allowed</li><li>Tenant is responsible for self-conduct in the premises</li><li>No Alcohol, Drugs, Smoke or guests of opposite gender allowed</li><li>No Guests allowed to stay overnight without prior written permission</li><li>No using building facilities unless permission is granted by the GSH team</li><li>Do not leave your belongings unattended in open places. GSH is not responsible for any theft.</li>",
+            "Amenities": {
+                "Common": [
+                        "Lift",
+                        "4 WHEELER PARKING",
+                        "2 WHEELER PARKING",
+                        "GYM",
+                        "SURVILLIANCE SYSTEM",
+                        "MAID SERVICE - MOPPING & DISH WASHING"
+                ],
+                "Living Room": [
+                    "SOFA",
+                    "TELEVISION",
+                    "SHOE RACK",
+                    "CENTER TABLE",
+                    "CARPET",
+                    "CURTAINS",
+                    "TV TABLE",
+                    "SET-TOP BOX",
+                    "WIFI CONNECTION",
+                    "DINIG TABLE",
+                    "IRON BOARD",
+                    "IRON"
+                ],
+                "Kitchen": [
+                    "FRIDGE",
+                    "MODULAR KITCHEN",
+                    "KITCHEN PLATFORM",
+                    "GAS STOVE",
+                    "GAS PIPE CONNECTION",
+                    "CROCKERY SET",
+                    "COOKING UTENSIL SET",
+                    "MICROWAVE",
+                    "WATER PURIFIER"
+                ],
+                "Dry Area": [
+                    "WASHING MACHINE"
+                ],
+                "Bedroom 1": [
+                    "BED WITH STORAGE SPACE",
+                    "FOAM MATTRESS",
+                    "PILLOW",
+                    "BEDSHEET AND PILLOW COVER",
+                    "BLANKET",
+                    "CUPBOARD",
+                    "CURTAINS",
+                    "DOOR MATS"
+                ],
+                "Bedroom 2": [
+                    "BED WITH STORAGE SPACE",
+                    "FOAM MATTRESS",
+                    "PILLOW",
+                    "BEDSHEET AND PILLOW COVER",
+                    "BLANKET",
+                    "CUPBOARD",
+                    "CURTAINS",
+                    "DOOR MATS"
+                ],
+                "Bedroom 3": [
+                    "BED WITH STORAGE SPACE",
+                    "FOAM MATTRESS",
+                    "PILLOW",
+                    "BEDSHEET AND PILLOW COVER",
+                    "BLANKET",
+                    "CUPBOARD",
+                    "CURTAINS",
+                    "DOOR MATS"
+                ]
+            },
+            "Rooms": [
+                {
+                    "PropertyID": "3",
+                    "BedRoom_Id": "1",
+                    "BedRoom_NoOfBed": "2",
+                    "BedRoom_PricePerInventory": "7500",
+                    "BedRoom_NoOfBedAvailable": "2",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "N",
+                    "BedRoom_Amenities": "Attached Toilet"
+                },
+                {
+                    "PropertyID": "3",
+                    "BedRoom_Id": "2",
+                    "BedRoom_NoOfBed": "3",
+                    "BedRoom_PricePerInventory": "5000",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "Y",
+                    "BedRoom_Amenities": "Attached Toilet"
+                },
+                {
+                    "PropertyID": "3",
+                    "BedRoom_Id": "3",
+                    "BedRoom_NoOfBed": "3",
+                    "BedRoom_PricePerInventory": "5000",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "Y",
+                    "BedRoom_Amenities": ""
+                }
+            ]
+        }
+    ],
+    "arrPropertyMedia" : [
+        {
+            "Common": [
+                {
+                    "smallImag" : "/img/media/1_1s.jpg",
+                    "largeImag" : "/img/media/1_1l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_2s.jpg",
+                    "largeImag" : "/img/media/1_2l.jpg"
+                }
+            ],
+            "Living Room": [
+                {
+                    "smallImag" : "/img/media/1_3s.jpg",
+                    "largeImag" : "/img/media/1_3l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_4s.jpg",
+                    "largeImag" : "/img/media/1_4l.jpg"
+                }
+            ],
+            "Kitchen": [
+                {
+                    "smallImag" : "/img/media/1_5s.jpg",
+                    "largeImag" : "/img/media/1_5l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_6s.jpg",
+                    "largeImag" : "/img/media/1_6l.jpg"
+                }
+            ],
+            "Bedroom 1": [
+                {
+                    "smallImag" : "/img/media/1_7s.jpg",
+                    "largeImag" : "/img/media/1_7l.jpg"
+                }
+            ],
+            "Bedroom 2": [
+                {
+                    "smallImag" : "/img/media/1_8s.jpg",
+                    "largeImag" : "/img/media/1_8l.jpg"
+                }
+            ]
+        }
+
+    ]
+}

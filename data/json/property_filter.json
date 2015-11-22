@@ -1,0 +1,13 @@
+{
+	"arrPropertyFilters" :
+	{
+		"City" : ["Bangalore", "Mumbai", "Pune"],
+		"Price": ["6000-7000","7000-8000","8000-9000","9000-10000","10000 +"],
+		"Gender": ["Female", "Male"],
+		"Occupancy": ["Private Room Compact","Twin Sharing","Triple Sharing","Private Room Premium"],
+		"Preferences": ["2 Wheeler Parking","4 Wheeler Parking","Smoking","Elevator"],
+		"Category": ["GetSetHome Premium", "GetSetHome Shared"]
+	}
+}
+
+

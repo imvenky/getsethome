@@ -1,0 +1,1 @@
+<div class="main-body-wrapper"> <!-- Main body wrapper starts -->

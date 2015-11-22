@@ -1,0 +1,170 @@
+{
+  "arrPropertyDetails": [
+    {
+      "Property_Id": "MUM0002",
+      "Property_FlatNo": "502",
+      "Property_BldgId": "1",
+      "Property_BldgName": "Fargo Park",
+      "Property_Wing": "",
+      "Property_TowerNo": "",
+      "Property_Street": "Ramchandra Lane",
+      "Property_Area": "650 Sq Ft",
+      "Property_CityID": "Mumbai",
+      "Property_LandMark": "Next to Greater Bank ATM, Ramchandra lane. Near Infinity-2 Mall.",
+      "Property_Country": "India",
+      "Property_PinCode": "400064",
+      "Property_NoofBedAvailable": "0 Bed",
+      "Property_Lat": "36.2462073",
+      "Property_Long": "-122.8058784",
+      "Property_Category": "GetSetHome Shared",
+      "Property_TypeID": "Apartment",
+      "Property_Synopsis": "Apartment",
+      "Property_GenderAllowed": "F",
+      "Property_NoOfBHK": "2 BHK",
+      "Property_HasLivingArea": "Y",
+      "Property_HasKitchen": "Y",
+      "Property_HasCommonBalcony": "N",
+      "Property_HasCommonToilet": "Y",
+      "Property_Timings": "NO RESTRICTIONS",
+      "Property_GenderEntry": "No",
+      "Property_IsFamilyAllowed": "No",
+      "Property_IsDrinkingAllowed": "No",
+      "Property_IsSmokingAllowed": "No",
+      "Property_IsNonVegAllowed": "Yes",
+      "Property_IsPetAllowed": "No",
+      "Property_NearBy": "|Airport=20KMS|RailwayStation=2.6 KM|",
+      "Property_About": "Plush 2 BHK fully furnished apartment with close proximity to Malad railway station, Infinity Mall and Mindspace. A society with Lift and easy access to shops, restaurant and public transport",
+      "Amenities": {
+        "Society Amenities": [
+          "LIFT",
+          "SECURITY",
+          "24 HRS POWER BACKUP",
+          "24 WATER SUPPLY",
+          "2 WHEELER PARKING"
+        ],
+        "Living Room": [
+          "SOFA",
+          "TELEVISION",
+          "SHOE RACK",
+          "CENTER TABLE",
+          "CARPET",
+          "CURTAINS",
+          "TV TABLE",
+          "SET-TOP BOX",
+          "WIFI CONNECTION",
+          "DINIG TABLE"
+        ],
+        "Kitchen": [
+          "FRIDGE",
+          "KITCHEN PLATFORM",
+          "GAS STOVE",
+          "GAS CYLINDER",
+          "CROCKERY SET",
+          "COOKING UTENSIL SET",
+          "MICROWAVE",
+          "WATER PURIFIER"
+        ],
+        "Common Amenities": [
+          "WASHING MACHINE",
+          "DRYER UNIT",
+          "IRON BOARD",
+          "IRON"
+        ],
+        "Bedroom": [
+          "SINGLE BED WITH STORAGE SPACE",
+          "FOAM MATTRESS",
+          "PILLOW",
+          "BEDSHEET AND PILLOW COVER",
+          "BLANKET",
+          "SIDE TABLE",
+          "SIDE LAMP",
+          "CUPBOARD",
+          "CURTAINS",
+          "DOOR MATS"
+        ],
+        "Bills Covered": [
+          "WI-FI",
+          "DTH / CABLE",
+          "GAS CONNECTION",
+          "WATER CHARGES",
+          "MAINTENANCE",
+          "HOUSE KEEPING"
+        ]
+      },
+      "Rooms": [
+        {
+          "PropertyID": "MUM0002",
+          "BedRoom_Id": "1",
+          "BedRoom_NoOfBed": "2",
+          "BedRoom_PricePerInventory": "12000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_BedType": "",
+          "BedRoom_Area": "Twin Sharing",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_Amenities": "Attached Toilet",
+          "Beds": [
+            {
+              "Bed_Id": "1",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "2",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "MUM0002",
+          "BedRoom_Id": "2",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "9000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_BedType": "",
+          "BedRoom_Area": "Triple Sharing",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_Amenities": "Common Toilet",
+          "Beds": [
+            {
+              "Bed_Id": "3",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "4",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "5",
+              "Bed_availability": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arrPropertyMedia": [
+    {
+      "Common": [
+        {
+          "smallImag": "/img/media/MUM0002_1.jpg",
+          "largeImag": "/img/media/MUM0002_1.jpg"
+        },
+        {
+          "smallImag": "/img/media/MUM0002_2.jpg",
+          "largeImag": "/img/media/MUM0002_2.jpg"
+        }
+      ],
+      "Living Room": [
+        {
+          "smallImag": "/img/media/MUM0002_3.jpg",
+          "largeImag": "/img/media/MUM0002_3.jpg"
+        },
+        {
+          "smallImag": "/img/media/MUM0002_4.jpg",
+          "largeImag": "/img/media/MUM0002_4.jpg"
+        }
+      ]
+    }
+  ]
+}

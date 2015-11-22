@@ -1,0 +1,233 @@
+{
+  "arrPropertyDetails": [
+    {
+      "Property_Id": "PUN0003",
+      "Property_FlatNo": "804",
+      "Property_BldgId": "",
+      "Property_BldgName": "CHERYL",
+      "Property_Wing": "A1",
+      "Property_TowerNo": "",
+      "Property_Street": "Fountain Road, Tulaja Bhawani Nagar",
+      "Property_Area": "1400 Sq Ft",
+      "Property_CityID": "Pune",
+      "Property_LandMark": "Near EON IT Park",
+      "Property_Country": "India",
+      "Property_PinCode": "411014",
+      "Property_NoofBedAvailable": "0 Bed",
+      "Property_Lat": "18.5600706",
+      "Property_Long": "73.9460528",
+      "Property_Category": "GetSetHome Shared",
+      "Property_TypeID": "Apartment",
+      "Property_Synopsis": "Apartment",
+      "Property_GenderAllowed": "M",
+      "Property_NoOfBHK": "3 BHK",
+      "Property_HasLivingArea": "Y",
+      "Property_HasKitchen": "Y",
+      "Property_HasCommonBalcony": "Y",
+      "Property_HasCommonToilet": "Y",
+      "Property_Timings": "NO RESTRICTIONS",
+      "Property_GenderEntry": "No",
+      "Property_IsFamilyAllowed": "No",
+      "Property_IsDrinkingAllowed": "No",
+      "Property_IsSmokingAllowed": "No",
+      "Property_IsNonVegAllowed": "Yes",
+      "Property_IsPetAllowed": "No",
+      "Property_NearBy": "|Airport=9KMS|RailwayStation=10 KMS|",
+      "Property_About": "Plush 3 BHK fully furnished apartment at less than a kilometres distance from EON IT Park. A society with all modern amenities with easy access to shops, restaurant and public transport",
+      "Amenities": {
+        "Society Amenities": [
+          "LIFT",
+          "SECURITY",
+          "24 HRS POWER BACKUP",
+          "24 WATER SUPPLY",
+          "2 WHEELER PARKING"
+        ],
+        "Living Room": [
+          "SOFA",
+          "TELEVISION",
+          "SHOE RACK",
+          "CENTER TABLE",
+          "CARPET",
+          "CURTAINS",
+          "TV TABLE",
+          "SET-TOP BOX",
+          "WIFI CONNECTION",
+          "DINIG TABLE"
+        ],
+        "Kitchen": [
+          "FRIDGE",
+          "KITCHEN PLATFORM",
+          "GAS STOVE",
+          "GAS CYLINDER",
+          "CROCKERY SET",
+          "COOKING UTENSIL SET",
+          "MICROWAVE",
+          "WATER PURIFIER"
+        ],
+        "Common Amenities": [
+          "WASHING MACHINE",
+          "DRYER UNIT",
+          "IRON BOARD",
+          "IRON"
+        ],
+        "Bedroom": [
+          "SINGLE BED WITH STORAGE SPACE",
+          "FOAM MATTRESS",
+          "PILLOW",
+          "BEDSHEET AND PILLOW COVER",
+          "BLANKET",
+          "SIDE TABLE",
+          "SIDE LAMP",
+          "CUPBOARD",
+          "CURTAINS",
+          "DOOR MATS"
+        ],
+        "Bills Covered": [
+          "WI-FI",
+          "DTH / CABLE",
+          "GAS CONNECTION",
+          "WATER CHARGES",
+          "MAINTENANCE",
+          "HOUSE KEEPING",
+          "ELECTRICITY*"
+        ]
+      },
+      "Rooms": [
+        {
+          "PropertyID": "PUN003",
+          "BedRoom_Id": "1",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "N",
+          "Beds": [
+            {
+              "Bed_Id": "1",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "2",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "3",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN003",
+          "BedRoom_Id": "2",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "4",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "5",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "6",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN003",
+          "BedRoom_Id": "3",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "7",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "8",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "9",
+              "Bed_availability": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arrPropertyMedia": [
+    {
+      "Common": [
+        {
+          "smallImag": "/img/media/PUN0003_1.jpg",
+          "largeImag": "/img/media/PUN0003_1.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_2.jpg",
+          "largeImag": "/img/media/PUN0003_2.jpg"
+        }
+      ],
+      "Living Room": [
+        {
+          "smallImag": "/img/media/PUN0003_3.jpg",
+          "largeImag": "/img/media/PUN0003_3.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_4.jpg",
+          "largeImag": "/img/media/PUN0003_4.jpg"
+        }
+      ],
+      "Kitchen": [
+        {
+          "smallImag": "/img/media/PUN0003_5.jpg",
+          "largeImag": "/img/media/PUN0003_5.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_6.jpg",
+          "largeImag": "/img/media/PUN0003_6.jpg"
+        }
+      ],
+      "Bedroom": [
+        {
+          "smallImag": "/img/media/PUN0003_7.jpg",
+          "largeImag": "/img/media/PUN0003_7.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_8.jpg",
+          "largeImag": "/img/media/PUN0003_8.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_9.jpg",
+          "largeImag": "/img/media/PUN0003_9.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_10.jpg",
+          "largeImag": "/img/media/PUN0003_10.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0003_11.jpg",
+          "largeImag": "/img/media/PUN0003_11.jpg"
+        }
+      ]
+    }
+  ]
+}

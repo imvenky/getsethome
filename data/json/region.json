@@ -1,0 +1,35 @@
+{
+	"arrRegions" : [
+			{
+				"RegionId" : "MUM",
+				"RegionName" : "Mumbai",
+				"RegionSeq" : "2",
+				"RegionStatus" : "Y"
+			},
+			{
+				"RegionId" : "PUN",
+				"RegionName" : "Pune",
+				"RegionSeq" : "1",
+				"RegionStatus" : "Y"
+
+			},
+			{
+				"RegionId" : "BAN",
+				"RegionName" : "Bangalore",
+				"RegionSeq" : "3",
+				"RegionStatus" : "Y"
+			},
+			{
+				"RegionId" : "HYD",
+				"RegionName" : "Hyderabad",
+				"RegionSeq" : "4",
+				"RegionStatus" : "N"
+			},
+			{
+				"RegionId" : "NCR",
+				"RegionName" : "NCR",
+				"RegionSeq" : "5",
+				"RegionStatus" : "N"
+			}
+	]
+}

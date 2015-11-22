@@ -1,0 +1,190 @@
+{
+    "arrPropertyDetails": [
+        {
+            "Property_Id": "5",
+            "Property_FlatNo": "3",
+            "Property_BldgId": "1",
+            "Property_BldgName": "Legend Fragrance II",
+            "Property_Wing": "",
+            "Property_TowerNo": "",
+            "Property_Street": "Baner",
+            "Property_Area": "2000 sq ft",
+            "Property_CityID": "Pune",
+            "Property_LandMark": "Near Baner D-Mart",
+            "Property_Country": "India",
+            "Property_PinCode": "411045",
+            "Property_NoofBedAvailable": "3 Beds",
+            "Property_Lat": "36.2462073",
+            "Property_Long": "-122.8058784",
+            "Property_TypeID": "Row House",
+            "Property_Synopsis": "Apartment",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBHK": "4 BHK",
+            "Property_HasLivingArea": "Y",
+            "Property_HasKitchen": "Y",
+            "Property_HasCommonBalcony": "Y",
+            "Property_HasCommonToilet": "Y",
+            "Property_Timings": "NO RESTRICTIONS",
+            "Property_GenderEntry": "No",
+            "Property_IsFamilyAllowed": "No",
+            "Property_IsDrinkingAllowed": "No",
+            "Property_IsSmokingAllowed": "No",
+            "Property_IsNonVegAllowed": "Yes",
+            "Property_IsPetAllowed": "No",
+            "Property_NearBy": "|Airport=22KMS|RailwayStation=12KM|",
+            "Property_TNC":"<li>No Pets Allowed</li><li>No additional furniture allowed</li><li>Tenant is responsible for self-conduct in the premises</li><li>No Alcohol, Drugs, Smoke or guests of opposite gender allowed</li><li>No Guests allowed to stay overnight without prior written permission</li><li>No using building facilities unless permission is granted by the GSH team</li><li>Do not leave your belongings unattended in open places. GSH is not responsible for any theft.</li>",
+            "Amenities": {
+                "Common": [
+                    "Lift",
+                    "2 Wheeler Parking",
+                    "Maid Service - Mopping & Dis Washing"
+                ],
+                "Living Room": [
+                    "SOFA",
+                    "TELEVISION",
+                    "SHOE RACK",
+                    "CENTER TABLE",
+                    "CARPET",
+                    "CURTAINS",
+                    "TV TABLE",
+                    "SET-TOP BOX",
+                    "WIFI CONNECTION",
+                    "DINIG TABLE",
+                    "IRON BOARD",
+                    "IRON"
+                ],
+                "Kitchen": [
+                    "FRIDGE",
+                    "KITCHEN PLATFORM",
+                    "GAS STOVE",
+                    "GAS CYLINDER",
+                    "CROCKERY SET",
+                    "COOKING UTENSIL SET",
+                    "MICROWAVE",
+                    "WATER PURIFIER"
+                ],
+                "Dry Area": [
+                    "WASHING MACHINE",
+                    "DRYER UNIT"
+                ],
+                "Bedroom 1": [
+                    "BED WITH STORAGE SPACE",
+                    "FOAM MATTRESS",
+                    "PILLOW",
+                    "BEDSHEET AND PILLOW COVER",
+                    "BLANKET",
+                    "CUPBOARD",
+                    "CURTAINS",
+                    "DOOR MATS"
+                ],
+                "Bedroom 2": [
+                    "BED WITH STORAGE SPACE",
+                    "FOAM MATTRESS",
+                    "PILLOW",
+                    "BEDSHEET AND PILLOW COVER",
+                    "BLANKET",
+                    "CUPBOARD",
+                    "CURTAINS",
+                    "DOOR MATS"
+                ]
+            },
+            "Rooms": [
+                {
+                    "PropertyID": "5",
+                    "BedRoom_Id": "1",
+                    "BedRoom_NoOfBed": "3",
+                    "BedRoom_PricePerInventory": "6000",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "N",
+                    "BedRoom_Amenities": "Attached Toilet"
+                },
+                {
+                    "PropertyID": "5",
+                    "BedRoom_Id": "2",
+                    "BedRoom_NoOfBed": "3",
+                    "BedRoom_PricePerInventory": "6000",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "N",
+                    "BedRoom_Amenities": "Attached Toilet"
+                },
+                {
+                    "PropertyID": "5",
+                    "BedRoom_Id": "3",
+                    "BedRoom_NoOfBed": "2",
+                    "BedRoom_PricePerInventory": "8500",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "Y",
+                    "BedRoom_Amenities": "N"
+                },
+                {
+                    "PropertyID": "5",
+                    "BedRoom_Id": "4",
+                    "BedRoom_NoOfBed": "2",
+                    "BedRoom_PricePerInventory": "8500",
+                    "BedRoom_NoOfBedAvailable": "3",
+                    "BedRoom_BedType": "",
+                    "BedRoom_Area": "",
+                    "BedRoom_IsMaster": "",
+                    "BedRoom_HasBalcony": "N",
+                    "BedRoom_Amenities": "Y"
+                }
+            ]
+        }
+    ],
+    "arrPropertyMedia" : [
+        {
+            "Common": [
+                {
+                    "smallImag" : "/img/media/1_1s.jpg",
+                    "largeImag" : "/img/media/1_1l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_2s.jpg",
+                    "largeImag" : "/img/media/1_2l.jpg"
+                }
+            ],
+            "Living Room": [
+                {
+                    "smallImag" : "/img/media/1_3s.jpg",
+                    "largeImag" : "/img/media/1_3l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_4s.jpg",
+                    "largeImag" : "/img/media/1_4l.jpg"
+                }
+            ],
+            "Kitchen": [
+                {
+                    "smallImag" : "/img/media/1_5s.jpg",
+                    "largeImag" : "/img/media/1_5l.jpg"
+                },
+                {
+                    "smallImag" : "/img/media/1_6s.jpg",
+                    "largeImag" : "/img/media/1_6l.jpg"
+                }
+            ],
+            "Bedroom 1": [
+                {
+                    "smallImag" : "/img/media/1_7s.jpg",
+                    "largeImag" : "/img/media/1_7l.jpg"
+                }
+            ],
+            "Bedroom 2": [
+                {
+                    "smallImag" : "/img/media/1_8s.jpg",
+                    "largeImag" : "/img/media/1_8l.jpg"
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "arrProperty": [
+        {
+            "Property_Id": "MUM0001",
+            "Property_FlatNo": "501",
+            "Property_BldgName": "Fargo Park",
+            "Property_Area": "Malad West",
+            "Property_CityID": "Mumbai",
+            "Property_TypeID": "Apartment",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBedsAvailable": "0 Bed",
+            "Property_Price": "9000 onwards",
+            "Property_PriceRange": "9000|12000",
+            "Property_Seq": "1",
+            "Property_preferences": "Elevator|2 Wheeler Parking",
+            "Property_occupancy" : "Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        },
+        {
+            "Property_Id": "MUM0002",
+            "Property_FlatNo": "502",
+            "Property_BldgName": "Fargo Park",
+            "Property_Area": "Malad West",
+            "Property_CityID": "Mumbai",
+            "Property_TypeID": "Apartment",
+            "Property_GenderAllowed": "F",
+            "Property_NoOfBedsAvailable": "0 Bed",
+            "Property_Price": "9000 onwards",
+            "Property_PriceRange": "9000|12000",
+            "Property_Seq": "2",
+            "Property_preferences": "Elevator|2 Wheeler Parking",
+            "Property_occupancy" : "Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        }
+    ]
+}

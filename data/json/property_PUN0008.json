@@ -1,0 +1,263 @@
+{
+  "arrPropertyDetails": [
+    {
+      "Property_Id": "PUN0008",
+      "Property_FlatNo": "",
+      "Property_BldgId": "",
+      "Property_BldgName": "3 Legend Fragrance",
+      "Property_Wing": "",
+      "Property_TowerNo": "",
+      "Property_Street": "Prabhat Nagar",
+      "Property_Area": "Baner Road",
+      "Property_CityID": "Pune",
+      "Property_LandMark": "Close by D-Mart Baner",
+      "Property_Country": "India",
+      "Property_PinCode": "411045",
+      "Property_NoofBedAvailable": "0 Bed",
+      "Property_Lat": "18.5677184",
+      "Property_Long": "73.7694954",
+      "Property_Category": "GetSetHome Shared",
+      "Property_TypeID": "Bungalow",
+      "Property_Synopsis": "Bungalow",
+      "Property_GenderAllowed": "M",
+      "Property_NoOfBHK": "4 BHK",
+      "Property_HasLivingArea": "Y",
+      "Property_HasKitchen": "Y",
+      "Property_HasCommonBalcony": "Y",
+      "Property_HasCommonToilet": "Y",
+      "Property_Timings": "NO RESTRICTIONS",
+      "Property_GenderEntry": "No",
+      "Property_IsFamilyAllowed": "No",
+      "Property_IsDrinkingAllowed": "No",
+      "Property_IsSmokingAllowed": "No",
+      "Property_IsNonVegAllowed": "Yes",
+      "Property_IsPetAllowed": "No",
+      "Property_NearBy": "|Airport=9KMS|RailwayStation=10 KMS|",
+      "Property_About": "Plush 4 BHK fully furnished Bungalow in Baner near D Mart. Centrally located with easy close proximity to Hinjewadi, Aundh, Pimple Saudagar etc. Easy access to shops, restaurants and public transport",
+      "Amenities": {
+        "Society Amenities": [
+          "LIFT",
+          "SECURITY",
+          "24 HRS POWER BACKUP",
+          "24 WATER SUPPLY",
+          "2 WHEELER PARKING"
+        ],
+        "Living Room": [
+          "SOFA",
+          "TELEVISION",
+          "SHOE RACK",
+          "CENTER TABLE",
+          "CARPET",
+          "CURTAINS",
+          "TV TABLE",
+          "SET-TOP BOX",
+          "WIFI CONNECTION",
+          "DINIG TABLE"
+        ],
+        "Kitchen": [
+          "FRIDGE",
+          "KITCHEN PLATFORM",
+          "GAS STOVE",
+          "GAS CYLINDER",
+          "CROCKERY SET",
+          "COOKING UTENSIL SET",
+          "MICROWAVE",
+          "WATER PURIFIER"
+        ],
+        "Common Amenities": [
+          "WASHING MACHINE",
+          "DRYER UNIT",
+          "IRON BOARD",
+          "IRON"
+        ],
+        "Bedroom": [
+          "SINGLE BED WITH STORAGE SPACE",
+          "FOAM MATTRESS",
+          "PILLOW",
+          "BEDSHEET AND PILLOW COVER",
+          "BLANKET",
+          "SIDE TABLE",
+          "SIDE LAMP",
+          "CUPBOARD",
+          "CURTAINS",
+          "DOOR MATS"
+        ],
+        "Bills Covered": [
+          "WI-FI",
+          "DTH / CABLE",
+          "GAS CONNECTION",
+          "WATER CHARGES",
+          "MAINTENANCE",
+          "HOUSE KEEPING",
+          "ELECTRICITY*"
+        ]
+      },
+      "Rooms": [
+        {
+          "PropertyID": "PUN008",
+          "BedRoom_Id": "1",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_AttachedToilet": "N",
+          "Beds": [
+            {
+              "Bed_Id": "1",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "2",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "3",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN008",
+          "BedRoom_Id": "2",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "4",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "5",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "6",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN008",
+          "BedRoom_Id": "3",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "N",
+          "Beds": [
+            {
+              "Bed_Id": "7",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "8",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "9",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN008",
+          "BedRoom_Id": "3",
+          "BedRoom_NoOfBed": "2",
+          "BedRoom_PricePerInventory": "8000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Twin Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "10",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "11",
+              "Bed_availability": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arrPropertyMedia": [
+    {
+      "Common": [
+        {
+          "smallImag": "/img/media/PUN0008_1.jpg",
+          "largeImag": "/img/media/PUN0008_1.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_2.jpg",
+          "largeImag": "/img/media/PUN0008_2.jpg"
+        }
+      ],
+      "Living Room": [
+        {
+          "smallImag": "/img/media/PUN0008_3.jpg",
+          "largeImag": "/img/media/PUN0008_3.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_4.jpg",
+          "largeImag": "/img/media/PUN0008_4.jpg"
+        }
+      ],
+      "Kitchen": [
+        {
+          "smallImag": "/img/media/PUN0008_5.jpg",
+          "largeImag": "/img/media/PUN0008_5.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_6.jpg",
+          "largeImag": "/img/media/PUN0008_6.jpg"
+        }
+      ],
+      "Bedroom": [
+        {
+          "smallImag": "/img/media/PUN0008_7.jpg",
+          "largeImag": "/img/media/PUN0008_7.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_8.jpg",
+          "largeImag": "/img/media/PUN0008_8.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_9.jpg",
+          "largeImag": "/img/media/PUN0008_9.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_10.jpg",
+          "largeImag": "/img/media/PUN0008_10.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_11.jpg",
+          "largeImag": "/img/media/PUN0008_11.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_12.jpg",
+          "largeImag": "/img/media/PUN0008_12.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0008_13.jpg",
+          "largeImag": "/img/media/PUN0008_13.jpg"
+        }
+      ]
+    }
+  ]
+}

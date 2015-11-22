@@ -1,0 +1,85 @@
+{
+    "arrProperty": [
+        {
+            "Property_Id": "BAN0001",
+            "Property_FlatNo": "117",
+            "Property_BldgName": "Concorde Cuppertino",
+            "Property_Area": "Electronic City Ph-1",
+            "Property_CityID": "Bangalore",
+            "Property_TypeID": "Bungalow",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBedsAvailable": "1 Bed",
+            "Property_Price": "6000 onwards",
+            "Property_PriceRange": "6000|8000|10000",
+            "Property_Seq": "1",
+            "Property_preferences": "Smoking|2 Wheeler Parking|4 Wheeler Parking",
+            "Property_occupancy" : "Private Room - Compact|Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        },
+        {
+            "Property_Id": "BAN0002",
+            "Property_FlatNo": "C-206",
+            "Property_BldgName": "S.S.Felicity Homes",
+            "Property_Area": "WhiteField",
+            "Property_CityID": "Bangalore",
+            "Property_TypeID": "Apartment",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBedsAvailable": "3 Beds",
+            "Property_Price": "5000 onwards",
+            "Property_PriceRange": "5000|7000|9000",
+            "Property_Seq": "2",
+            "Property_preferences": "Elevator|2 Wheeler Parking",
+            "Property_occupancy" : "Private Room - Compact|Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        },
+        {
+            "Property_Id": "BAN0003",
+            "Property_FlatNo": "83",
+            "Property_BldgName": "Concorde Cuppertino",
+            "Property_Area": "Electronic City Ph-1",
+            "Property_CityID": "Bangalore",
+            "Property_TypeID": "Bungalow",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBedsAvailable": "6 Beds",
+            "Property_Price": "6000 onwards",
+            "Property_PriceRange": "6000|8000|10000",
+            "Property_Seq": "3",
+            "Property_preferences": "Smoking|2 Wheeler Parking|4 Wheeler Parking",
+            "Property_occupancy" : "Private Room - Compact|Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        },
+        {
+            "Property_Id": "BAN0003",
+            "Property_FlatNo": "105",
+            "Property_BldgName": "Concorde Cuppertino",
+            "Property_Area": "Electronic City Ph-1",
+            "Property_CityID": "Bangalore",
+            "Property_TypeID": "Bungalow",
+            "Property_GenderAllowed": "F",
+            "Property_NoOfBedsAvailable": "9 Beds",
+            "Property_Price": "6000 onwards",
+            "Property_PriceRange": "6000|8000|10000",
+            "Property_Seq": "3",
+            "Property_preferences": "Smoking|2 Wheeler Parking|4 Wheeler Parking",
+            "Property_occupancy" : "Private Room - Compact|Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        },
+        {
+            "Property_Id": "BAN0004",
+            "Property_FlatNo": "105",
+            "Property_BldgName": "Concorde Cuppertino",
+            "Property_Area": "Electronic City Ph-1",
+            "Property_CityID": "Bangalore",
+            "Property_TypeID": "Bungalow",
+            "Property_GenderAllowed": "M",
+            "Property_NoOfBedsAvailable": "9 Beds",
+            "Property_Price": "6000 onwards",
+            "Property_PriceRange": "6000|8000|10000",
+            "Property_Seq": "3",
+            "Property_preferences": "Smoking|2 Wheeler Parking|4 Wheeler Parking",
+            "Property_occupancy" : "Private Room Compact|Twin Sharing|Triple Sharing",
+            "Property_Category": "GetSetHome Shared"
+        }
+        
+    ]
+}

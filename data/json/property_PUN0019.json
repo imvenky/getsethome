@@ -1,0 +1,165 @@
+{
+  "arrPropertyDetails": [
+    {
+      "Property_Id": "PUN0019",
+      "Property_FlatNo": "A 10",
+      "Property_BldgId": "",
+      "Property_BldgName": "Room 7, Vidyut Nagar",
+      "Property_Wing": "",
+      "Property_TowerNo": "",
+      "Property_Street": "South Main Road, lane no-5",
+      "Property_Area": "Koregoan Park",
+      "Property_CityID": "Pune",
+      "Property_LandMark": "Opp Hotel Cozy Inn And Near Burger Barn Cafe",
+      "Property_Country": "India",
+      "Property_PinCode": "411001",
+      "Property_NoofBedAvailable": "0 Bed",
+      "Property_Lat": "18.5331813",
+      "Property_Long": "73.8968878",
+      "Property_Category": "GetSetHome Shared",
+      "Property_TypeID": "Studio",
+      "Property_Synopsis": "Studio",
+      "Property_GenderAllowed": "M",
+      "Property_NoOfBHK": "",
+      "Property_HasLivingArea": "Y",
+      "Property_HasKitchen": "Y",
+      "Property_HasCommonBalcony": "Y",
+      "Property_HasCommonToilet": "Y",
+      "Property_Timings": "NO RESTRICTIONS",
+      "Property_GenderEntry": "No",
+      "Property_IsFamilyAllowed": "No",
+      "Property_IsDrinkingAllowed": "No",
+      "Property_IsSmokingAllowed": "No",
+      "Property_IsNonVegAllowed": "Yes",
+      "Property_IsPetAllowed": "No",
+      "Property_NearBy": "|Airport=9KMS|RailwayStation=10 KMS|",
+      "Property_About": "Fully furnished Studio apartment in the heart of Pune and in the most sought after locality in Pune. Easy access to shops, restaurant and public transport",
+      "Amenities": {
+        "Society Amenities": [
+          "LIFT",
+          "SECURITY",
+          "24 HRS POWER BACKUP",
+          "24 WATER SUPPLY",
+          "2 WHEELER PARKING"
+        ],
+        "Living Room": [
+          "SOFA",
+          "TELEVISION",
+          "SHOE RACK",
+          "CENTER TABLE",
+          "CARPET",
+          "CURTAINS",
+          "TV TABLE",
+          "SET-TOP BOX",
+          "WIFI CONNECTION",
+          "DINIG TABLE"
+        ],
+        "Kitchen": [
+          "FRIDGE",
+          "KITCHEN PLATFORM",
+          "GAS STOVE",
+          "GAS CYLINDER",
+          "CROCKERY SET",
+          "COOKING UTENSIL SET",
+          "MICROWAVE",
+          "WATER PURIFIER"
+        ],
+        "Common Amenities": [
+          "WASHING MACHINE",
+          "DRYER UNIT",
+          "IRON BOARD",
+          "IRON"
+        ],
+        "Bedroom": [
+          "SINGLE BED WITH STORAGE SPACE",
+          "FOAM MATTRESS",
+          "PILLOW",
+          "BEDSHEET AND PILLOW COVER",
+          "BLANKET",
+          "SIDE TABLE",
+          "SIDE LAMP",
+          "CUPBOARD",
+          "CURTAINS",
+          "DOOR MATS"
+        ],
+        "Bills Covered": [
+          "WI-FI",
+          "DTH / CABLE",
+          "GAS CONNECTION",
+          "WATER CHARGES",
+          "MAINTENANCE",
+          "FULL TIME CARE TAKER",
+          "ELECTRICITY*"
+        ]
+      },
+      "Rooms": [
+        {
+          "PropertyID": "PUN0019",
+          "BedRoom_Id": "1",
+          "BedRoom_NoOfBed": "2",
+          "BedRoom_PricePerInventory": "8000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Twin Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "N",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "1",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "2",
+              "Bed_availability": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arrPropertyMedia": [
+    {
+      "Common": [
+        {
+          "smallImag": "/img/media/PUN0019_1.jpg",
+          "largeImag": "/img/media/PUN0019_1.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0019_2.jpg",
+          "largeImag": "/img/media/PUN0019_2.jpg"
+        }
+      ],
+      "Living Room": [
+        {
+          "smallImag": "/img/media/PUN0019_3.jpg",
+          "largeImag": "/img/media/PUN0019_3.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0019_4.jpg",
+          "largeImag": "/img/media/PUN0019_4.jpg"
+        }
+      ],
+      "Kitchen": [
+        {
+          "smallImag": "/img/media/PUN0019_5.jpg",
+          "largeImag": "/img/media/PUN0019_5.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0019_6.jpg",
+          "largeImag": "/img/media/PUN0019_6.jpg"
+        }
+      ],
+      "Bedroom": [
+        {
+          "smallImag": "/img/media/PUN0019_7.jpg",
+          "largeImag": "/img/media/PUN0019_7.jpg"
+        },
+        {
+          "smallImag": "/img/media/PUN0019_8.jpg",
+          "largeImag": "/img/media/PUN0019_8.jpg"
+        }
+      ]
+    }
+  ]
+}

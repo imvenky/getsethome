@@ -1,0 +1,161 @@
+{
+  "arrPropertyDetails": [
+    {
+      "Property_Id": "PUN0011",
+      "Property_FlatNo": "201",
+      "Property_BldgId": "",
+      "Property_BldgName": "Good Will Enclave",
+      "Property_Wing": "25",
+      "Property_TowerNo": "",
+      "Property_Street": "LAne No. 13 A",
+      "Property_Area": "Kalyani Nagar",
+      "Property_CityID": "Pune",
+      "Property_LandMark": "Lane Opp Bounty Restaurant",
+      "Property_Country": "India",
+      "Property_PinCode": "411006",
+      "Property_NoofBedAvailable": "0 Bed",
+      "Property_Lat": "18.5468911",
+      "Property_Long": "73.9056712",
+      "Property_Category": "GetSetHome Shared",
+      "Property_TypeID": "Apartment",
+      "Property_Synopsis": "Apartment",
+      "Property_GenderAllowed": "F",
+      "Property_NoOfBHK": "2 BHK",
+      "Property_HasLivingArea": "Y",
+      "Property_HasKitchen": "Y",
+      "Property_HasCommonBalcony": "Y",
+      "Property_HasCommonToilet": "Y",
+      "Property_Timings": "NO RESTRICTIONS",
+      "Property_GenderEntry": "No",
+      "Property_IsFamilyAllowed": "No",
+      "Property_IsDrinkingAllowed": "No",
+      "Property_IsSmokingAllowed": "No",
+      "Property_IsNonVegAllowed": "Yes",
+      "Property_IsPetAllowed": "No",
+      "Property_NearBy": "|Airport=9KMS|RailwayStation=10 KMS|",
+      "Property_About": "2 BHK fully furnished apartment in the heart of Kalyani nagar near Bounty Restaurant at less than a kilometres distance from Mariplex and Cerebrum IT Park. Easy access to shops, restaurant and public transport",
+      "Amenities": {
+        "Society Amenities": [
+          "LIFT",
+          "SECURITY",
+          "24 HRS POWER BACKUP",
+          "24 WATER SUPPLY",
+          "2 WHEELER PARKING"
+        ],
+        "Living Room": [
+          "SOFA",
+          "TELEVISION",
+          "SHOE RACK",
+          "CENTER TABLE",
+          "CARPET",
+          "CURTAINS",
+          "TV TABLE",
+          "SET-TOP BOX",
+          "WIFI CONNECTION",
+          "DINIG TABLE"
+        ],
+        "Kitchen": [
+          "FRIDGE",
+          "KITCHEN PLATFORM",
+          "GAS STOVE",
+          "GAS CYLINDER",
+          "CROCKERY SET",
+          "COOKING UTENSIL SET",
+          "MICROWAVE",
+          "WATER PURIFIER"
+        ],
+        "Common Amenities": [
+          "WASHING MACHINE",
+          "DRYER UNIT",
+          "IRON BOARD",
+          "IRON"
+        ],
+        "Bedroom": [
+          "SINGLE BED WITH STORAGE SPACE",
+          "FOAM MATTRESS",
+          "PILLOW",
+          "BEDSHEET AND PILLOW COVER",
+          "BLANKET",
+          "SIDE TABLE",
+          "SIDE LAMP",
+          "CUPBOARD",
+          "CURTAINS",
+          "DOOR MATS"
+        ],
+        "Bills Covered": [
+          "WI-FI",
+          "DTH / CABLE",
+          "GAS CONNECTION",
+          "WATER CHARGES",
+          "MAINTENANCE",
+          "HOSUE KEEPING",
+          "ELECTRICITY*"
+        ]
+      },
+      "Rooms": [
+        {
+          "PropertyID": "PUN0011",
+          "BedRoom_Id": "1",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "Y",
+          "Beds": [
+            {
+              "Bed_Id": "1",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "2",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "3",
+              "Bed_availability": "N"
+            }
+          ]
+        },
+        {
+          "PropertyID": "PUN0011",
+          "BedRoom_Id": "2",
+          "BedRoom_NoOfBed": "3",
+          "BedRoom_PricePerInventory": "6000",
+          "BedRoom_NoOfBedAvailable": "0",
+          "BedRoom_RoomType": "Triple Sharing",
+          "BedRoom_Area": "",
+          "BedRoom_IsMaster": "",
+          "BedRoom_HasBalcony": "Y",
+          "BedRoom_AttachedToilet": "N",
+          "Beds": [
+            {
+              "Bed_Id": "4",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "5",
+              "Bed_availability": "N"
+            },
+            {
+              "Bed_Id": "6",
+              "Bed_availability": "N"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "arrPropertyMedia": [
+    {
+      "Common": [
+        {
+          "smallImag": "/img/media/PUN0011_1.jpg",
+          "largeImag": "/img/media/PUN0011_1.jpg"
+        }
+      ]
+    }
+  ]
+}
