@@ -8,6 +8,10 @@
 	$array_apartment	= $array_apartment["arrProperty"];
 
 	$pageName			= $p1;
+
+	if($p1 !== "property-listing") {
+		$region = $p1;
+	}
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -31,13 +35,13 @@
 			<div class="flt-city">
 				<div class="dropdown">
 					<div class="dd-label">
-						<input type="text" value="<?php echo $_GET['City']; ?>" placeholder="City" disabled>
+						<input type="text" value="<?php echo ucfirst($region); ?>" placeholder="City" disabled>
 						<span class="icon-ar-down"></span>
 					</div>
-					<div class="dd-menu">
+					<div class="dd-menu _city-dd">
 						<ul>
 							<?php for($i=0; $i<count($array_filters['City']); $i++) { ?>
-								<li onclick="fnChangeFilter('City','<?php echo $array_filters['City'][$i] ?>')"><?php echo $array_filters['City'][$i] ?></li>
+								<li><a href="/<?php echo strtolower($array_filters['City'][$i]); ?>/property-listing/"><?php echo $array_filters['City'][$i] ?></a></li>
 							<?php } ?>
 						</ul>
 					</div>
@@ -359,15 +363,24 @@
 			}, 500);
 		}
 		function fnChangeFilter(fltrType, value){
-			$(".pl-container .columnBox").hide();
-			$(".pl-container .columnBox").removeClass("itemloaded");
+			var box = $(".pl-container .columnBox");
+			box.hide();
+			box.removeClass("itemloaded");
+
 			filteredJson[fltrType] = value;
 			$.each(filteredJson, function(i, item) {
 				$(".pl-container .columnBox[data-filter*='"+item+"']").show();
 			});
 			setTimeout(function(){
 	    		$(".pl-container .columnBox:visible").addClass("itemloaded");
+
+				if(!$(".columnBox").hasClass("itemloaded")){
+					$(".no-property").show();
+				} else {
+					$(".no-property").hide();
+				}
 			}, 500);
+
 		}
 	</script>
 </body>

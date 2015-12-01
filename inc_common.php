@@ -1,23 +1,19 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="Generator" content="EditPlus">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+
+
 <!-- JS section -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="/js/misc.js"></script>
 
-<!-- Fonts -->
-<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
-
 <!-- css calls -->
 <link href="/css/base.css" media="all" rel="stylesheet" type="text/css" />
 <link href="/css/style.css" media="all" rel="stylesheet" type="text/css" />
-<style>
-	.main-body-wrapper{
-		display: none;
-	}
-</style>
 
 <!-- page calls -->
-<link rel="canonical" href="http://<?php echo $_SERVER['domainName'] ?>.com/" />	
-<link rel="alternate" href="http://<?php echo $_SERVER['domainName'] ?>.com/"/>
+<link rel="canonical" href="http://getsethome.com/" />	
+<link rel="alternate" href="http://getsethome.com/"/>
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
 <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon" />
 <script>

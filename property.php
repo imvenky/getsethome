@@ -27,9 +27,9 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>GetSetHome - Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent</title>
-	<meta name="keywords" content="Shared room, Shared accomodation, Hostels, PG &amp; Hostels, Room for rent, Rented House, Flatmate, Roommate, Male PG, Female PG, Single Room, Flats for rent, Furnished flats for rent, No brokerage flats, PG for Ladies, PG for Men, Twin sharing, Premium single room, Flat sharing, House for rent, single room for rent, single occupancy PG, low budget flats, property for rent, affordable house on rent, sharing basis apartment, room sharing">
-	<meta name="description" content="Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
+	<title><?php echo $arrayApartment[0]["Property_Area"]; ?>, <?php echo $arrayApartment[0]["Property_Street"]; ?>, <?php echo $arrayApartment[0]["Property_CityID"]; ?>, Broker Free, and available for <?php echo ($arrayApartment[0]["Property_GenderAllowed"] === "M" ? "Boys" : "Girls"); ?>  - GetSetHome.com</title>
+	<meta name="keywords" content="Shared Accommodation in <?php echo $arrayApartment[0]["Property_CityID"]; ?> | PG &amp; Hostels in <?php echo $arrayApartment[0]["Property_CityID"]; ?> | GetSetHome.com">
+​	<meta name="description" content="rent property, pg, furnished, sharing, shared accommodation, flat, real estate India, apartment, real photos, map, property, property in india​">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
 	<?php require_once 'inc_common.php'; ?>

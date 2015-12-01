@@ -312,7 +312,7 @@ Wait no more...Explore, Discover &amp; Experience hassle free accommodation rent
 							<li><a href="/job">Job</a></li>
 							<li><a href="/press">Press</a></li>
 							<li><a href="/blog">Blog</a></li>
-							<li><a href="/help">Help</a></li>
+							<li><a href="/faq">FAQ's</a></li>
 							<li><a href="/privacy-policy">Privacy Policy</a></li>
 							<!-- <li><a href="/terms-and-conditions">Terms &amp; conditions</a></li> -->
 						</ul>
