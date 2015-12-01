@@ -12,12 +12,31 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<meta charset="utf-8">
 	<title>GetSetHome - Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent</title>
 	<meta name="keywords" content="Shared room, Shared accomodation, Hostels, PG &amp; Hostels, Room for rent, Rented House, Flatmate, Roommate, Male PG, Female PG, Single Room, Flats for rent, Furnished flats for rent, No brokerage flats, PG for Ladies, PG for Men, Twin sharing, Premium single room, Flat sharing, House for rent, single room for rent, single occupancy PG, low budget flats, property for rent, affordable house on rent, sharing basis apartment, room sharing">
 	<meta name="description" content="Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+
+	<!-- FaceBook Card-->
+	<meta property="fb:app_id" content="1414439248873691">
+	<meta property="og:site_name" content="GetSetHome">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.getsethome.com/">
+	<meta property="og:title" content="GetSetHome - Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
+	<meta property="og:description" content="Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
+	<meta property="og:image" content="/img/getsethome.jpg">
+	<meta property="og:locale" content="en_US">
+
+	<!-- Twitter Card-->
+	<meta name="twitter:widgets:csp" content="on">
+
+	<meta name="twitter:url" content="http://www.getsethome.com/">
+	<meta name="twitter:description" content="Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="GetSetHome - Fully furnished rental apartments, flats, houses, shared accomodation for bachelors in India on PG priced rent">
+	<meta name="twitter:site" content="@GetSetHome">
+	<meta name="twitter:image" content="/img/getsethome.jpg" />
+
+	<!-- End -->
 	<?php require_once 'inc_common.php'; ?>
 </head>
 <body itemscope="" itemtype="http://schema.org/Place">
@@ -110,7 +129,7 @@
 					<?php if($array_region[$i]['RegionStatus'] == "N") { ?>
 					<a>
 					<?php } else { ?>
-					<a href="/property-listing/?&amp;City=<?php echo $array_region[$i]['RegionName']; ?>">
+					<a href="/<?php echo strtolower($array_region[$i]['RegionName']); ?>/property-listing/">
 					<?php } ?>
 						<div class="boxCnt">
 							<img class="__lazyload" src="/img/properties/list/list-load.jpg" data-src="/img/city/<?php echo strtolower($array_region[$i]['RegionName']); ?>.jpg" alt="GetSetHome - PG in <?php echo $array_region[$i]['RegionName']; ?>">
@@ -447,91 +466,8 @@
 			</aside>
 		</div>
 	</section>
-	<!-- Our Testimonials -->
-	<section class="hm-article _testimonials">
-		<div class="hma-head">
-			<h1>Hear what people are saying about GetSetHome</h1>
-		</div>
-		<div class="container">
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div class="__name-tip"><strong>Manuj</strong><br><span>Mumbai</span></div>
-					<div class="__img"><img alt="If someone asks for a Guest House / PG accomodation I will always recommend Get Set Home. I really liked the services provided by Get Set Home team." src="/img/testimonial/2.jpg"></div>
-					<div class="__details">
-						<p><span>"</span>If someone asks for a Guest House / Shared Accommodation I will always recommend Get Set Home. I really liked the services provided by Get Set Home team.<span>"</span></p>
-					</div>
-				</div>
-			</aside>
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div class="__name-tip"><strong>Renuka Krishnappa</strong><br><span class="ex-text">Deputy Manager Sales</span><!-- <br><span class="ex-text">Mantri Developers Pvt Ltd</span> --></div>
-					<div class="__img"><img alt="It's been a great experience living at Forest County. Good Facilities, Problems are well attended. Felt like home. Get Set Home team are very genuine." src="/img/testimonial/1.jpg"></div>
-					<div class="__details">
-						<p><span>"</span>I stayed at Beryl apartment in Kharadi Pune which was provided by Get Set Home. It was one of the best shared accommodation services I have experienced so far. The apartment was spacious, clean and with all the necessary facilities like fridge, TV, Wi-fi, maid, closet, furniture,etc.<span>"</span></p>
-					</div>
-				</div>
-			</aside>
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div class="__name-tip"><strong>Rahul Jain</strong><br><!-- <span class="ex-text">Zensar Technologies</span><br> --><span class="ex-text">Senior Software Engineer</span></div>
-					<div class="__img"><img alt="After coming to Pune the struggle was to find a nice and decent accommodation but all I could find was messy PG’s. So while searching I came across Get Set Home. The experience was very good right from the 1st day when I spoke Get Set Home team till the time I stayed and left Pune. The facility is good and there is a quick turnaround for services." src="/img/testimonial/4.jpg"></div>
-					<div class="__details">
-						<p><span>"</span>After coming to Pune the struggle was to find a nice and decent accommodation but all I could find was messy pg’s. So while searching I came across Get Set Home. The experience was very good right from the 1st day when I spoke to Get Set Home team till the time I stayed and left Pune.<span>"</span></p>
-					</div>
-				</div>
-			</aside>
-			<aside class="columnBox" style="display:none">
-				<div class="boxCnt">
-					<span class="__img"><img alt="After coming to Pune the struggle was to find a nice and decent accommodation but all I could find was messy PG’s. So while searching I came across Get Set Home. The experience was very good right from the 1st day when I spoke Get Set Home team till the time I stayed and left Pune. The facility is good and there is a quick turnaround for services." src="/img/testimonial/5.jpg"></span><br>
-					<strong>Vinayak Kapoor</strong><br><span class="ex-text">Spectra Management</span><br><span class="ex-text">Senior Executive</span>
-					<div class="__overlay-details">
-						<p>I landed in Pune just a few months back and was struggling to get a home away from home. But I had to suffer for around 4 months when I got to know about Get Set Home through one of the classified ads website. The place I stayed for almost 7-8 months was the most comfortable stay in shared accommodation.</p>
-						<strong class="_name">Vinayak Kapoor<br><span>Spectra Management</span></strong>
-					</div>
-				</div>
-			</aside>
-			<aside class="columnBox" style="display:none">
-				<div class="boxCnt">
-					<span class="__img"><img alt="It's been a great experience living at Forest County. Good Facilities, Problems are well attended. Felt like home. Get Set Home team are very genuine." src="/img/testimonial/3.jpg"></span><br>
-					<strong>Sangeeta Dubey</strong><br><span class="ex-text">Persistent Systems</span><br><span class="ex-text">Module Lead</span>
-					<div class="__overlay-details">
-						<p>It's been a great experience living at Forest County. Good Facilities, maintenance problems are well attended. Felt like home. Get Set Home is  very genuine.</p>
-						<strong class="_name">Sangeeta Dubey<br><span>Persistent Systems</span></strong>
-					</div>
-				</div>
-			</aside>
-			<aside class="columnBox" style="display:none">
-				<div class="boxCnt">
-					<span class="__img"><img alt="It's been a great experience living at Forest County. Good Facilities, Problems are well attended. Felt like home. Get Set Home team are very genuine." src="/img/testimonial/1.jpg"></span><br>
-					<strong>Renuka Krishnappa</strong><br><span class="ex-text">Deputy Manager Sales</span><br><span class="ex-text">Mantri Developers Pvt Ltd</span>
-					<div class="__overlay-details">
-						<p>I stayed at Beryl apartment in Kharadi Pune which was provided by Get Set Home. It was one of the best shared accommodation services I have experienced so far. The apartment was spacious, clean and with all the necessary facilities like fridge, TV, Wi-fi, maid, closet, furniture,etc.</p>
-						<strong class="_name">Renuka Krishnappa<br><span>Deputy Manager Sales</span></strong>
-					</div>
-				</div>
-			</aside>
-        </div>
-	</section>
-	<!-- Our Numbers -->
-	<section class="hm-article _numbers">
-		<div class="container">
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div><h6>326</h6><p>Happy Home Seekers</p></div>
-				</div>
-			</aside>
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div><h6>18, 00, 000</h6><p>Brokerage Saved</p></div>
-				</div>
-			</aside>
-			<aside class="columnBox">
-				<div class="boxCnt">
-					<div><h6>{cups of coffee}<sup>late nights</sup></h6><p>&amp; .... Lots of love</p></div>
-				</div>
-			</aside>
-		</div>
-	</section>
+		<?php require_once 'inc_testimonials.php'; ?>
+		<?php require_once 'inc_numbers.php'; ?>
 	<?php } ?>
 	<section class="fl_100 needPad" style="display:none">
 		<div class="seCLbl fl_100">
